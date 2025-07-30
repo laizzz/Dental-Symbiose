@@ -134,7 +134,7 @@
     <button class="print-button no-print" onclick="window.print()">PDF erstellen</button>
     
     <div class="header-box">
-        <h1 style="margin: 0; border: none;">Die Geputzte Pandemie</h1>
+        <h1 style="margin: 0; border: none;">Symbiotische Mundgesundheit</h1>
         <p style="margin: 10px 0 0 0; font-size: 18px;">Schuld macht krank und Symbiose heilt</p>
     </div>
     
@@ -144,7 +144,7 @@
 
     <!-- Slide 1 -->
     <div class="slide-box">
-        <div class="slide-title">🪥 Die geputzte Pandemie</div>
+        <div class="slide-title">🪥 Die Karies Pandemie</div>
         
         <div class="text-section">
             <div class="text-title">Die Ausbreitung</div>
